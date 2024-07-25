@@ -1,0 +1,11 @@
+import { CreateSeatDto } from "./create-seat.dto";
+declare const UpdateSeatDto_base: import("@nestjs/mapped-types").MappedType<Partial<CreateSeatDto>>;
+export declare class UpdateSeatDto extends UpdateSeatDto_base {
+    sector: number;
+    row_number: number;
+    number: number;
+    venue_id: number;
+    seat_type_id: number;
+    location_in_schema: string;
+}
+export {};

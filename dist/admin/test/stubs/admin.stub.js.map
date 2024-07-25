@@ -1,0 +1,1 @@
+{"version":3,"file":"admin.stub.js","sourceRoot":"","sources":["../../../../src/admin/test/stubs/admin.stub.ts"],"names":[],"mappings":";;;AAEO,MAAM,SAAS,GAAC,GAAiB,EAAE;IACpC,OAAO;QACP,EAAE,EAAC,CAAC;QACJ,IAAI,EAAE,aAAa;QACnB,KAAK,EAAE,oBAAoB;QAC3B,QAAQ,EAAE,WAAW;QACrB,SAAS,EAAE,IAAI;QACf,UAAU,EAAE,KAAK;QACjB,oBAAoB,EAAE,QAAQ;KAGjC,CAAA;AACH,CAAC,CAAA;AAZY,QAAA,SAAS,aAYrB"}
